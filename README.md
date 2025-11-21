@@ -15,11 +15,11 @@ main theme: using formal methods to enhance reliability and capability in legal 
 
 ## Timelines
 
-today: 2025-11-14
+today: 2025-11-21
 
-60-70 papers
+need: 60-70 papers
 
-count what I have  now
+What I have now (https://docs.google.com/spreadsheets/d/1Q6MvUcbB8L5nhA4a_gtwSE0v7WreuNVmoXMGD5J-oX8/edit?usp=sharing): 28 resources, papers/videos/workshops
 
 8 weeks for reading papers and summarizing
 - 8-9 papers per week
