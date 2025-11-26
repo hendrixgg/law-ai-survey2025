@@ -13,6 +13,33 @@ main theme: using formal methods to enhance reliability and capability in legal 
 3. Different AI/ML Techniques
 4. Current State and Opportunities for Improvement
 
+
+Key problem: Existing LLM's are unreliable and not fully verifiable or transparent
+
+Thesis: and even if they were fully reliable in terms of correct answers, they that wouldn't make them verifiably/transparently reliable. This verifiability and transparency is 
+
+Language Reasoning Models trained using reinforcement learning show some improvements and applications, but still nowhere near as good as symbolic planners.
+- keep target audience in mind, questions they would ask, pointing out gaps where other people can work on stuff
+
+challenges:
+1. 
+
+potentially show how Language models perform with using Catala, either formalizing laws in catala, or using the catala to understand and reason about a circumstance.
+
+what about other papers that talk about how language models understand the law, 
+
+look at a paper, ask questions how they relate to language models,
+- what does this paper do
+- what does this paper not do
+
+
+reading papers, takaways:
+- LLMs are bad at reasoning and planning even when things aren't very complex.
+- what about benchmarks on translating from natural language to CSP problems like in QuestBench? (this is similar to what was talked about with LLM-Modulo framework)
+- can we formulate Legal reasoning problems as logical CSP or planning problem?
+- can we use LLM-Modulo framework to elicit questions to ask to answer QuestBench questions?
+
+
 ## Timelines
 
 today: 2025-11-21
