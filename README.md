@@ -39,6 +39,63 @@ reading papers, takaways:
 - can we formulate Legal reasoning problems as logical CSP or planning problem?
 - can we use LLM-Modulo framework to elicit questions to ask to answer QuestBench questions?
 
+Topics:
+- Consistency analysis of contracts: ContractCheck
+- Automatic execution of contracts: Symboleo
+- Specification and Automatic Execution of statutory law: Catala
+- Verification of higher-level properties of law: Catala
+
+potential future projects
+- translating to/from formal language
+    - machine translation
+    - llm-modulo framework
+- llm reasoning in formal language
+- case study using ContractCheck with miller thompson
+
+sources of law info
+- rules
+    - statues
+    - regulations
+    - contracts
+- facts
+    - past cases/decisions (decided facts)
+    - current case facts (undecided facts)
+
+outline 
+- background/introduction
+    - legal domains
+    - information breakdown (statues, regulations, contracts, cases details)
+    - past and current uses of AI, success and limitation
+    - distinguish this paper from other works
+    - breif mention of formal methods for increased reliability
+    - brief list of formal methods
+- overview of different methods
+    - neurosymbolic AI
+    - formal language
+        - defining
+        - interaction
+        - translation
+            - ambiguity
+        - verification
+        - GraphRAG
+    - in-between
+        - natural language inference
+    - LLM reasoning
+        - natural language
+            - questbench
+        - how to verify
+- opportunities
+    - legal demand merge with technological capabilities
+    - consistency across judiciaries
+    - formalize: statues, contracts, case law, legal arguments
+    - assessing argument strength
+- solutions
+    - full
+    - partial solutions
+    - missing solutions
+- benefits
+
+
 
 ## Timelines
 
